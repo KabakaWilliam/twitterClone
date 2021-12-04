@@ -7,7 +7,7 @@ A starting point for my build of twitter with tailwind css. Lets see where this 
 Clone this repo and use:
 
 ```bash
-npx run dev
+npm run dev
 
 ```
 

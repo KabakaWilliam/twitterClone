@@ -38,7 +38,7 @@ const Sidebar = () => {
 
             {/* auth */}
             <div className="text-[#d9d9d9] flex items-center justify-center hoverAnimation xl:ml-auto 
-            xl:-mr-5 mt-auto">
+            xl:-mr-10 mt-auto">
                 <img src ="https://www.drupal.org/files/project-images/u-7.png"
                 width = "50"
                 alt = "" 

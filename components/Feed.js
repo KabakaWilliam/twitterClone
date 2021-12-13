@@ -21,7 +21,6 @@ const Feed = () => {
                     <SparklesIcon className="h-5 text-white" />
                 </div>
             </div>
-
             <Input/>
 
         </div>
